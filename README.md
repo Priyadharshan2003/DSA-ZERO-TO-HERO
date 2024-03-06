@@ -28,7 +28,7 @@ This repository is your one-stop destination for diving deep into the world of D
 |      |                   | 2. [Write a Program to Replace all 0’s with 1’s in a Number](DAY%20-%203/Replace_zeros_with_ones.java) |
 |      |                   | 3. [Write a Program to convert the binary number into a decimal number](DAY%20-%203/Program%20to%20Convert%20Binary%20Number%20to%20Decimal.c) |
 |      |                   | 4. [Write a program to Factorial of a Number](DAY%20-%203/Write%20a%20program%20to%20Factorial%20of%20a%20Number.c) |
-|      |                   | 5. [Write a Program to reverse a number](DAY%2-%203/Write%20a%20Program%20to%20reverse%20a%20number.c) |
+|      |                   | 5. [Write a Program to reverse a number](DAY%20-%203/Write%20a20Program%20to%20reverse%20a%20number.c) |
 
 *(Further days will be added as I progress in my learning journey.)*
 
