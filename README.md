@@ -14,13 +14,13 @@ This repository is your one-stop destination for diving deep into the world of D
   - **Day 1:** Explore patterns and foundational programming concepts.
   - **Day 2:** Tackle your first set of programming problems to solidify your understanding.
     - **Problems:**
-      - [Write a C Program to Check Whether a Number is Prime or Not](Day2/1.Program_to_Check_Prime_Number.c)
-      - [Write a C Program to Print the ASCII Value of a Character](Day2/2.Program_to_Print_ASCII_Value.c)
-      - [Write a C program to read an integer and print its multiplication table](Day2/3.Multiplication_Table_Up_to_a_range.c)
-      - [Write a C program to print all leap years from 1 to N](Day2/4.Leap_year_program_in_C.c)
-      - [Write a C program to print all upper case and lower case alphabets](Day2/5.Program_to_display_all_alphabets_from_A_to_Z.c)
+      - [Write a C Program to Check Whether a Number is Prime or Not](DAY%20-%202/LOOPS/1.Program%20to%20Check%20Prime%20Number.c)
+      - [Write a C Program to Print the ASCII Value of a Character](DAY%20-%202/LOOPS/2.Program%20to%20Print%20ASCII%20Value.c)
+      - [Write a C program to read an integer and print its multiplication table](DAY%20-%202/LOOPS/3.Multiplication%20Table%20Up%20to%20a%20range.c)
+      - [Write a C program to print all leap years from 1 to N](DAY%20-%202/LOOPS/4.Leap%20year%20program%20in%20C.c)
+      - [Write a C program to print all upper case and lower case alphabets](DAY%20-%202/LOOPS/5.Program%20to%20display%20all%20alphabets%20from%20A%20to%20Z.c)
 
-  - *(Further days will be added as I progress in my learning journey.)*
+  *(Further days will be added as I progress in my learning journey.)*
 
 - **Progressive difficulty:** The complexity of topics gradually increases, ensuring a well-paced learning journey.
 
@@ -29,6 +29,8 @@ This repository is your one-stop destination for diving deep into the world of D
 ## Getting Started
 
 ### Clone the repository:
+
+To clone the repository and start your learning journey, run the following command in your terminal:
 
 ```bash
 git clone https://github.com/Priyadharshan2003/DSA-ZERO-TO-HERO.git
