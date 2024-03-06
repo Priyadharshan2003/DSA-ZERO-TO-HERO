@@ -13,7 +13,7 @@ This repository is your one-stop destination for diving deep into the world of D
 - **Day-by-day breakdown:**
   - **Day 1:** Explore patterns and foundational programming concepts.
   - **Day 2:** Tackle your first set of programming problems to solidify your understanding.
-  - *(Further days will be added as you progress in your learning journey.)*
+  - *(Further days will be added as I progress in my learning journey.)*
 
 - **Progressive difficulty:** The complexity of topics gradually increases, ensuring a well-paced learning journey.
 
