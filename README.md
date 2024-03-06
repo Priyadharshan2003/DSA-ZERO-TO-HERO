@@ -1,4 +1,4 @@
-# DSA-ZERO-TO-HER
+# DSA-ZERO-TO-HERO
 
 Welcome to **DSA-ZERO-TO-HERO**, your comprehensive guide to mastering Data Structures and Algorithms (DSA)! This repository is designed to guide learners through a structured journey from the basics to advanced topics, ensuring a smooth and progressive learning curve.
 
@@ -11,14 +11,14 @@ This repository is your one-stop destination for diving deep into the world of D
 - **Structured learning:** Each day is dedicated to specific topics, offering a clear and focused learning path.
 
 - **Day-by-day breakdown:**
-  - **Day 1:** Explore patterns and foundational programming.
+  - **Day 1:** Explore patterns and foundational programming concepts.
   - **Day 2:** Tackle your first set of programming problems to solidify your understanding.
-     -**Probles:**
-               - [1) Write a C Program to Check Whether a Number is Prime or Not](1.Program to Check Prime Number.c)
-               - 2) Write a C Program to Print the ASCII Value of a Character
-               - 3) Write a C program to read an integer and print its multiplication table.
-               - 4) Write a C program to print all leap years from 1 to N.
-               - 5) Write a C program to print all upper case and lower case alphabets.
+    - **Problems:**
+      - [Write a C Program to Check Whether a Number is Prime or Not](Day2/1.Program_to_Check_Prime_Number.c)
+      - [Write a C Program to Print the ASCII Value of a Character](Day2/2.ASCII_Value.c)
+      - [Write a C program to read an integer and print its multiplication table.](Day2/3.Multiplication_Table.c)
+      - [Write a C program to print all leap years from 1 to N.](Day2/4.Leap_Years.c)
+      - [Write a C program to print all upper case and lower case alphabets.](Day2/5.Alphabets.c)
 
   - *(Further days will be added as I progress in my learning journey.)*
 
@@ -31,4 +31,4 @@ This repository is your one-stop destination for diving deep into the world of D
 ### Clone the repository:
 
 ```bash
-https://github.com/Priyadharshan2003/DSA-ZERO-TO-HERO.git
+git clone https://github.com/Priyadharshan2003/DSA-ZERO-TO-HERO.git
