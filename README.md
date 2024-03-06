@@ -1,4 +1,4 @@
-# DSA-ZERO-TO-HERO: Your Journey to Mastering Data Structures and Algorithms
+# DSA-ZERO-TO-HER
 
 Welcome to **DSA-ZERO-TO-HERO**, your comprehensive guide to mastering Data Structures and Algorithms (DSA)! This repository is designed to guide learners through a structured journey from the basics to advanced topics, ensuring a smooth and progressive learning curve.
 
@@ -11,7 +11,7 @@ This repository is your one-stop destination for diving deep into the world of D
 - **Structured learning:** Each day is dedicated to specific topics, offering a clear and focused learning path.
 
 - **Day-by-day breakdown:**
-  - **Day 1:** Explore patterns and foundational programming concepts.
+  - **Day 1:** Explore patterns and foundational programming.
   - **Day 2:** Tackle your first set of programming problems to solidify your understanding.
   - *(Further days will be added as I progress in my learning journey.)*
 
