@@ -15,10 +15,10 @@ This repository is your one-stop destination for diving deep into the world of D
   - **Day 2:** Tackle your first set of programming problems to solidify your understanding.
     - **Problems:**
       - [Write a C Program to Check Whether a Number is Prime or Not](Day2/1.Program_to_Check_Prime_Number.c)
-      - [Write a C Program to Print the ASCII Value of a Character](Day2/2.Program to Print ASCII Value.c)
-      - [Write a C program to read an integer and print its multiplication table.](Day2/3.Multiplication Table Up to a range.c)
-      - [Write a C program to print all leap years from 1 to N.](Day2/4.Leap year program in C.c)
-      - [Write a C program to print all upper case and lower case alphabets.](Day2/5.Program to display all alphabets from A to Z.c)
+      - [Write a C Program to Print the ASCII Value of a Character](Day2/2.Program_to_Print_ASCII_Value.c)
+      - [Write a C program to read an integer and print its multiplication table](Day2/3.Multiplication_Table_Up_to_a_range.c)
+      - [Write a C program to print all leap years from 1 to N](Day2/4.Leap_year_program_in_C.c)
+      - [Write a C program to print all upper case and lower case alphabets](Day2/5.Program_to_display_all_alphabets_from_A_to_Z.c)
 
   - *(Further days will be added as I progress in my learning journey.)*
 
