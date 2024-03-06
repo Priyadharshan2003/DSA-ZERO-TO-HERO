@@ -14,7 +14,7 @@ This repository is your one-stop destination for diving deep into the world of D
   - **Day 1:** Explore patterns and foundational programming.
   - **Day 2:** Tackle your first set of programming problems to solidify your understanding.
      -**Probles:**
-               - 1) Write a C Program to Check Whether a Number is Prime or Not(https://github.com/Priyadharshan2003/DSA-ZERO-TO-HERO/blob/main/DAY%20-%202/LOOPS/1.Program%20to%20Check%20Prime%20Number.c)
+               - [1) Write a C Program to Check Whether a Number is Prime or Not](1.Program to Check Prime Number.c)
                - 2) Write a C Program to Print the ASCII Value of a Character
                - 3) Write a C program to read an integer and print its multiplication table.
                - 4) Write a C program to print all leap years from 1 to N.
