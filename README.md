@@ -24,4 +24,4 @@ This repository is your one-stop destination for diving deep into the world of D
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/<your_username>/Priyadharshan2003
+[git clone https://github.com/<your_username>/Priyadharshan2003](https://github.com/Priyadharshan2003/DSA-ZERO-TO-HERO.git)https://github.com/Priyadharshan2003/DSA-ZERO-TO-HERO.git
