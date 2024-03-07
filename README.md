@@ -15,6 +15,7 @@ This repository is your one-stop destination for diving deep into the world of D
 | S.No | Day               | Problems                                                                                                  |
 |------|-------------------|------------------------------------------------------------------------------------------------------------|
 | 1    | Day 1             | Explore patterns and foundational programming concepts.                                                    |
+|      |                   |  ![Patterns](patterns.png)                                                                                                          |
 | 2    | Day 2             | Tackle your first set of programming problems to solidify your understanding.                              |
 |      |                   | 1. [Write a C Program to Check Whether a Number is Prime or Not](DAY%20-%202/LOOPS/1.Program%20to%20Check%20Prime%20Number.c) |
 |      |                   | 2. [Write a C Program to Print the ASCII Value of a Character](DAY%20-%202/LOOPS/2.Program%20to%20Print%20ASCII%20Value.c) |
