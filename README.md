@@ -12,6 +12,7 @@ This repository is your one-stop destination for diving deep into the world of D
 
 - **Day-by-day breakdown:**
   - **Day 1:** Explore patterns and foundational programming concepts.
+      ![Patterns](patterns.png)
   - **Day 2:** Tackle your first set of programming problems to solidify your understanding.
     - **Problems:**
       - [Write a C Program to Check Whether a Number is Prime or Not](DAY%20-%202/LOOPS/1.Program%20to%20Check%20Prime%20Number.c)
